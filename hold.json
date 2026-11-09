@@ -1,0 +1,21 @@
+{
+  "jobs": [
+    "convwide",
+    "lab384",
+    "big384"
+  ],
+  "threshold": 0.45,
+  "val_iou": 0.9355838720852302,
+  "small_iou": 0.9153454807867111,
+  "stress_iou": 0.9722810560825601,
+  "tile": true,
+  "score": 0.9358398719302145,
+  "split": "4bbc62cf7cc781ab5945190a33d9b077538e4c7f56bdc79dd1a99e12629cebbc",
+  "weights": {
+    "convwide": "a1bd6a3c4f2f1f21ac16e7879d9957814dd6d164e017ab9a1f444dbeda25c89d",
+    "lab384": "5be454300f1b14440aae2756501619423d7852ab9135bcd89ea47072a91ecff3",
+    "big384": "649e5a8e1ab4a055486dd10018f04adc301192c6c80646d5f3caa99c897c171e"
+  },
+  "hold_iou": 0.9385329041988414,
+  "count": 736
+}
